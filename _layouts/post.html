@@ -1,0 +1,27 @@
+---
+layout: default
+top: Notes &larr; Daniel Ice
+section: Work
+feed: atom.xml
+---
+
+<div id="header">
+	{% include nav.html %}
+</div>
+
+<div id="page">
+	
+  <h1 class="emphnext">{{ post.title }}</h1>
+
+{{ content }}
+
+  <address class="signature">
+    <a class="author" href="http://www.coderguy.com">Daniel Ice</a> 
+    <span class="date">
+		{{ post.date | date_to_long_string }} 
+		{% if post.update %} 
+			&#8212; {{ post.update | date_to_long_string }}
+		{% endif %}
+	</span>
+  </address>
+</div><!-- End Post -->
