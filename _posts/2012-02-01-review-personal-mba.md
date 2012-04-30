@@ -2,6 +2,7 @@
 layout: post
 title: Book Review - The Personal MBA
 tags: [book review]
+date: 2012-02-01
 
 section: Blog
 ---

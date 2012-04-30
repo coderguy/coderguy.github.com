@@ -2,6 +2,7 @@
 layout: post
 title: Demandware Open Commerce API Boilerplate
 tags: [demandware, open commerce api, open source, backbone.js, node.js]
+date: 2012-04-29
 
 section: Blog
 ---
