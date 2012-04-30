@@ -15,6 +15,13 @@ About Me
 
 I live in Dallas, Texas with my wife and two boys.  I work for [Fluid](http://www.fluid.com).
 
+Me on the Web
+========
+
+* [Github](http://github.com/coderguy)
+* [Twitter](http://twitter.com/#!/coderguy64)
+* [Linked-In](http://www.linkedin.com/in/danielice)
+
 About This Site
 ===============
 
