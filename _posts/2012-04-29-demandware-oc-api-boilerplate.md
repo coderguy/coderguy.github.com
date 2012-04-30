@@ -9,7 +9,7 @@ section: Blog
 
 # Demandware Open Commerce API Boilerplate
 
-[Github Project Link](https://github.com/coderguy/demandware-oc-api-boilerplate)
+[Github Project Link](https://github.com/coderguy/demandware)
 
 ## Background
 
