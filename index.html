@@ -8,6 +8,14 @@ section: Home
 
 <h1>{{ page.title }}</h1>
 
+<h2>Reading Guides</h2>
+
+<ul>
+  <li><a href="/books/recommend-programming.html">Recommended Programming Books​</a>​</li>
+</ul>
+
+<h2>Post</h2>
+
 {% for post in site.posts %}
 
     {{ post.date | date: "%B %e, %Y" }} - <a href="{{ post.url }}">{{ post.title }}</a><br/>
