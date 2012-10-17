@@ -15,12 +15,26 @@ tags: [book read]
 
 # Currently Reading
 
-**Title:** [The 5 Levels of Leadership: Proven Steps to Maximize Your Potential](http://www.amazon.com/gp/product/159995365X?tag=servicebrook-20)<br/>
-**Author:** John C. Maxwell<br/>
+**Title:** [What Got You Here Won't Get You There: How Successful People Become Even More Successful](http://www.amazon.com/gp/product/1401301304?tag=servicebrook-20)<br/>
+**Author:** Marshall Goldsmith<br/>
 
 **Title:** [Third-Party JavaScript](http://www.amazon.com/gp/product/1617290548?tag=servicebrook-20)<br/>
-**Authors:** Ben Vinegar and Anton Kovalyov<br/>
+**Authors:** Ben Vinegar, Anton Kovalyov<br/>
 **Edition:** [Early Release](http://www.manning.com/vinegar/)
+
+----------
+
+# Want to Read
+
+**Title:** [The 5 Elements of Effective Thinking](http://www.amazon.com/gp/product/0691156662?tag=servicebrook-20)<br/>
+**Authors:** Edward B. Burger, Michael Starbird<br/>
+
+----------
+
+# On Hold
+
+**Title:** [The 5 Levels of Leadership: Proven Steps to Maximize Your Potential](http://www.amazon.com/gp/product/159995365X?tag=servicebrook-20)<br/>
+**Author:** John C. Maxwell<br/>
 
 ----------
 
