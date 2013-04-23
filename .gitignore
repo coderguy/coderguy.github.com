@@ -17,3 +17,7 @@ Thumbs.db
 
 # Static site output
 _site
+
+# Ruby stuff
+.ruby-gemset
+.ruby-version
